@@ -1,1 +1,1 @@
-echo "hi from" <?php echo gethostname(); ?>
+hi from <?php echo gethostname(); ?>
